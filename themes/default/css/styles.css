@@ -1,0 +1,47 @@
+body
+{
+	margin:0px;
+	padding:0px;
+	font-size:11px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+a:link
+{
+	text-decoration:none;
+	color:#ff9000;
+	text-decoration:underline;
+}
+
+a:visited
+{
+	text-decoration:none;
+	color:#ff9000;
+	text-decoration:underline;
+}
+
+a:hover
+{
+	text-decoration:none;
+	color:#ff5a00;
+	text-decoration:underline;
+}
+
+a:active
+{
+	text-decoration:none;
+	color:#ff5a00;
+	text-decoration:underline;
+}
+
+.stat-box
+{
+	font-size:10px;
+}
+
+#copyright
+{
+	color:#333333;
+	font-weight:bold;
+	font-size:10px;
+}
